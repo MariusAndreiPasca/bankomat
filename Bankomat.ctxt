@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Bankomat
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=Bankomat()
+comment3.params=
+comment3.target=Card\ getCurrentCard()
+comment4.params=currentCard
+comment4.target=void\ setCurrentCard(Card)
+comment5.params=
+comment5.target=java.util.Scanner\ getScanner()
+comment6.params=scanner
+comment6.target=void\ setScanner(java.util.Scanner)
+comment7.params=card
+comment7.target=void\ insertCard(Card)
+comment8.params=
+comment8.target=void\ authenticate()
+comment9.params=
+comment9.target=void\ displayMenu()
+numComments=10

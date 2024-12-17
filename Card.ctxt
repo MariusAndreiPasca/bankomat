@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Card
+comment1.params=clientName\ cardNr\ pin\ balance
+comment1.target=Card(java.lang.String,\ java.lang.String,\ int,\ double)
+comment10.params=introPin
+comment10.target=boolean\ verifyPin(int)
+comment11.params=amount
+comment11.target=void\ withdraw(double)
+comment12.params=amount
+comment12.target=void\ deposit(double)
+comment2.params=
+comment2.target=java.lang.String\ getClientName()
+comment3.params=clientName
+comment3.target=void\ setClientName(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getCardNr()
+comment5.params=cardNr
+comment5.target=void\ setCardNr(java.lang.String)
+comment6.params=
+comment6.target=int\ getPin()
+comment7.params=pin
+comment7.target=void\ setPin(int)
+comment8.params=
+comment8.target=double\ getBalance()
+comment9.params=balance
+comment9.target=void\ setBalance(double)
+numComments=13
